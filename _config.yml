@@ -1,7 +1,7 @@
 # Site settings
 title: ALL IN Leng/shazi_awa
 SEOTitle: 沙子的博客 | BY Blog
-header-img: img/b_c0895dc799791cf09b8cf228c99d7e1c.jpg
+header-img: img/post-bg-rwd.jpg 
 email: 2742754621@qq.com
 description: "You were the shadow to my light."
 keyword: "BY, BY Blog, 沙子的博客, shazi_awa, 冷也是晴, iOS, Apple, iPhone"
@@ -17,7 +17,7 @@ sidebar-avatar: /img/b_c0895dc799791cf09b8cf228c99d7e1c.jpg      # use absolute 
 
 
 # SNS settings
-RSS: true
+RSS: false
 # weibo_username:     冷也是晴
 zhihu_username:     冷也是晴
 github_username:    冷也是晴
