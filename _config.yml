@@ -3,7 +3,7 @@ title: ALL IN Leng/shazi_awa
 SEOTitle: 沙子的博客 | BY Blog
 header-img: img/post-bg-rwd.jpg 
 email: 2742754621@qq.com
-description: "You were the shadow to my light."
+description: "逸一时，误一世，逸久忆旧罢一龄"
 keyword: "BY, BY Blog, 沙子的博客, shazi_awa, 冷也是晴, iOS, Apple, iPhone"
 url: "http://xiaoshaziya.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
@@ -99,16 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Bilibili",
+        href: "http://bilibili.com"
     }
 ]
