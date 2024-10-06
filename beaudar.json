@@ -1,0 +1,28 @@
+{
+  "defaultLanguage": "javascript",
+  "languages": [
+    {
+      "name": "JavaScript",
+      "mode": "javascript",
+      "fileExtensions": ["js", "jsx"]
+    },
+    {
+      "name": "HTML",
+      "mode": "htmlmixed",
+      "fileExtensions": ["html", "htm"]
+    },
+    {
+      "name": "CSS",
+      "mode": "css",
+      "fileExtensions": ["css"]
+    },
+    {
+      "name": "Markdown",
+      "mode": "markdown",
+      "fileExtensions": ["md", "markdown"]
+    }
+  ],
+  "theme": "default",
+  "lineNumbers": true,
+  "lineWrapping": false
+}
