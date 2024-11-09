@@ -5,9 +5,9 @@ header-img: img/post-bg-rwd.jpg
 email: 2742754621@qq.com
 description: "逸一时，误一世，逸久忆旧罢一龄"
 keyword: "BY, BY Blog, 沙子的博客, shazi_awa, 冷也是晴, iOS, Apple, iPhone"
-url: "http://xiaoshaziya.github.io"          # your host, for absolute URL
+url: "http://xiaoshaziya.github.io"           # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xiaoshaziYA/xiaoshaziYA.github.io" # you code repository
+github_repo: "https://github.com/xiaoshaziYA/xiaoshaziYA.github.io"  # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -27,7 +27,6 @@ github_username:    xiaoshaziYA
 
 
 
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
@@ -43,11 +42,10 @@ gems: [jekyll-paginate]
 
 
 
-
 # Markdown settings
 # replace redcarpet to kramdown,
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown 
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -56,19 +54,12 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
-
-# Gitalk
-gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
+# Beaudar
+beaudar:
+  enable: true
+  repo: xiaoshaziYA/xiaoshaziYA.github.io
+  branch: master
+  locale: "zh-CN"
 
 # 统计
 
@@ -78,9 +69,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -100,6 +89,6 @@ service-worker: true
 friends: [
     {
         title: "Bilibili",
-        href: "http://bilibili.com"
+        href: "http://bilibili.com" 
     }
 ]
