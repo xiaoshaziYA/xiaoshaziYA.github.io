@@ -1,5 +1,5 @@
 # Site settings
-title: ALL IN Leng/shazi_awa
+title: (*^▽^*)shazi_awa(〃'▽'〃)
 SEOTitle: 沙子的博客 | BY Blog
 header-img: img/post-bg-rwd.jpg 
 email: 2742754621@qq.com
@@ -7,7 +7,7 @@ description: "逸一时，误一世，逸久忆旧罢一龄"
 keyword: "BY, BY Blog, 沙子的博客, shazi_awa, 冷也是晴, iOS, Apple, iPhone"
 url: "http://xiaoshaziya.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/xiaoshaziYA/xiaoshaziYA.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -17,13 +17,13 @@ sidebar-avatar: /img/b_c0895dc799791cf09b8cf228c99d7e1c.jpg      # use absolute 
 
 
 # SNS settings
-RSS: false
-# weibo_username:     冷也是晴
-zhihu_username:     冷也是晴
-github_username:    冷也是晴
-facebook_username:  冷也是晴
-jianshu_username:   冷也是晴
-#twitter_username:   冷也是晴
+RSS: true
+# weibo_username:     暂无
+# zhihu_username:     暂无
+github_username:    xiaoshaziYA
+# facebook_username:  暂无
+# jianshu_username:   暂无
+#twitter_username:   暂无
 
 
 
